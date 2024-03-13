@@ -12,7 +12,7 @@ by Huangbo Zou
 3. 機器學習 ≈ 機器自動從資料找一個函式 (Machine Learning)
 4. 深度學習(Deep Learning) 是一種機器學習技術，一般使用<font color="#0070c0">類神經網路 (Neural Network)</font>(Transformer :類神經網路的一種)
 5. 
-![Pasted image 20240312182453.png](src/site/img/user/pasted_image/Pasted%20image%2020240312182453.png)
+![Pasted image 20240312182453.png](/src/site/img/user/pasted_image/Pasted%20image%2020240312182453.png)
 ## 2 今日的生成式人工智慧厲害在哪裡？
 
 ### 总结现状：
